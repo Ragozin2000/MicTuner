@@ -1,0 +1,26 @@
+{
+ "mictuner_profile": 1,
+ "name": "Ночь, тихий голос",
+ "params": {
+  "input_gain_db": 0,
+  "highpass_hz": 80,
+  "denoise": 0.85,
+  "air_db": 1.0,
+  "deess_db": 2.0,
+  "gate_db": -60,
+  "gate_cut_db": 40,
+  "gate_hold_ms": 180,
+  "comp_thr_db": -34,
+  "comp_ratio": 4.0,
+  "makeup_db": 9,
+  "ceiling_db": -1.5,
+  "eq": [
+   [
+    3500,
+    1.5,
+    1.0
+   ]
+  ],
+  "hum_hz": []
+ }
+}
