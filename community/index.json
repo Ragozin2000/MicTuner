@@ -1,0 +1,22 @@
+{
+ "profiles": [
+  {
+   "file": "night-quiet.mictuner",
+   "name": "Ночь, тихий голос",
+   "author": "Mic Tuner",
+   "about": "Когда нельзя говорить громко: тихий голос становится ровнее и заметнее."
+  },
+  {
+   "file": "game-keyboard.mictuner",
+   "name": "Игры с клавиатурой",
+   "author": "Mic Tuner",
+   "about": "Щелчки клавиш и мыши в паузах не проходят. Говорить нужно близко к микрофону."
+  },
+  {
+   "file": "radio-voice.mictuner",
+   "name": "Радиоголос",
+   "author": "Mic Tuner",
+   "about": "Плотнее и ярче, как у ведущего: для стримов и записи."
+  }
+ ]
+}
