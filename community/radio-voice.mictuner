@@ -1,0 +1,36 @@
+{
+ "mictuner_profile": 1,
+ "name": "Радиоголос",
+ "params": {
+  "input_gain_db": 0,
+  "highpass_hz": 80,
+  "denoise": 0.7,
+  "air_db": 2.5,
+  "deess_db": 4.0,
+  "gate_db": -55,
+  "gate_cut_db": 40,
+  "gate_hold_ms": 180,
+  "comp_thr_db": -26,
+  "comp_ratio": 4.0,
+  "makeup_db": 6,
+  "ceiling_db": -1.5,
+  "eq": [
+   [
+    120,
+    2.5,
+    0.8
+   ],
+   [
+    300,
+    -3.0,
+    1.0
+   ],
+   [
+    4000,
+    3.0,
+    0.9
+   ]
+  ],
+  "hum_hz": []
+ }
+}
