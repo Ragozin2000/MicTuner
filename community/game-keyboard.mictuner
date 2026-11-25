@@ -1,0 +1,27 @@
+{
+ "mictuner_profile": 1,
+ "name": "Игры с клавиатурой",
+ "params": {
+  "input_gain_db": 0,
+  "highpass_hz": 110,
+  "denoise": 1,
+  "air_db": 1.0,
+  "deess_db": 2.0,
+  "gate_db": -40,
+  "gate_close_db": -46,
+  "gate_cut_db": 50,
+  "gate_hold_ms": 250,
+  "comp_thr_db": -24,
+  "comp_ratio": 3.0,
+  "makeup_db": 4,
+  "ceiling_db": -1.5,
+  "eq": [
+   [
+    3500,
+    1.5,
+    1.0
+   ]
+  ],
+  "hum_hz": []
+ }
+}
